@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Build a simple Weather App with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fefcaceres/node-weather.git"
+  },
+  "author": "fidel flores caceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fefcaceres/node-weather/issues"
+  },
+  "homepage": "https://github.com/fefcaceres/node-weather#readme"
+}
